@@ -93,8 +93,3 @@ Includes:
 * Drill-through pages for deeper product-level insights
 * Clean layout with consistent color palette
 * Interactive slicers for dynamic analysis
-
----
-
-Would you like me to prepare **GitHub-friendly tags + short catchy description** (so it looks good in search results and LinkedIn posts)?
-Example: `#PowerBI #SalesAnalytics #RetailDashboard #BusinessInsights`
